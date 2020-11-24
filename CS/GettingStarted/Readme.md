@@ -1,10 +1,10 @@
 <!-- default file list -->
 *Files to look at*:
 
-* [Order.cs](./DataGrid_GettingStarted/Data Model/Order.cs)
-* [Product.cs](./DataGrid_GettingStarted/Data Model/Product.cs)
-* [OrderRepository.cs](./DataGrid_GettingStarted/Data Model/OrderRepository.cs)
-* [ModelObject.cs](./DataGrid_GettingStarted/Data Model/ModelObject.cs)
+* [Order.cs](./DataGrid_GettingStarted/DataModel/Order.cs)
+* [Product.cs](./DataGrid_GettingStarted/DataModel/Product.cs)
+* [OrderRepository.cs](./DataGrid_GettingStarted/DataModel/OrderRepository.cs)
+* [ModelObject.cs](./DataGrid_GettingStarted/DataModel/ModelObject.cs)
 * [MainPage.xaml](./DataGrid_GettingStarted/MainPage.xaml)
 * [MainPage.xaml.cs](./DataGrid_GettingStarted/MainPage.xaml.cs)
 <!-- default file list end -->
