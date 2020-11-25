@@ -1,0 +1,41 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
+    <DebugType>pdbonly</DebugType>
+    <DebugSymbols>true</DebugSymbols>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Images\Beverages.png" />
+    <None Remove="Images\Condiments.png" />
+    <None Remove="Images\Confections.png" />
+    <None Remove="Images\DairyProducts.png" />
+    <None Remove="Images\Grains.png" />
+    <None Remove="Images\MeatPoultry.png" />
+    <None Remove="Images\Produce.png" />
+    <None Remove="Images\Seafood.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <EmbeddedResource Include="Images\Beverages.png" />
+    <EmbeddedResource Include="Images\Condiments.png" />
+    <EmbeddedResource Include="Images\Confections.png" />
+    <EmbeddedResource Include="Images\DairyProducts.png" />
+    <EmbeddedResource Include="Images\Grains.png" />
+    <EmbeddedResource Include="Images\MeatPoultry.png" />
+    <EmbeddedResource Include="Images\Produce.png" />
+    <EmbeddedResource Include="Images\Seafood.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="DevExpress.XamarinForms.Grid" Version="20.2.3" />
+    <PackageReference Include="Xamarin.Essentials" Version="1.5.3.2" />
+    <PackageReference Include="Xamarin.Forms" Version="4.6.0.1141" />
+  </ItemGroup>
+
+  <ProjectExtensions><VisualStudio><UserProperties XamarinHotReloadXFormsNugetUpgradeInfoBarDataGridView_PullToRefreshHideInfoBar="True" /></VisualStudio></ProjectExtensions>
+</Project>
