@@ -7,6 +7,8 @@
 <!-- default file list end -->
 # Create Columns for Different Data Types
 
+This example shows how to create columns in [DataGridView](https://docs.devexpress.com/MobileControls/DevExpress.XamarinForms.DataGrid.DataGridView) to display and edit data of different types. The grid is bound to a collection of *Employee* objects. Each *Employee* object contains an employee's photo (image), name, position, phone, address (strings), hire and birth dates (DateTime values), employee's access level (enumeration value), and a Boolean value indicating whether an employee is on vacation. For a complete description, refer to the following help topic: [Create Columns for Different Data Types](https://docs.devexpress.com/MobileControls/400831/xamarin-forms/data-grid/examples/all-columns).
+
 <img src="./img/grid-all-columns.png"/>
 
 To run the application:
