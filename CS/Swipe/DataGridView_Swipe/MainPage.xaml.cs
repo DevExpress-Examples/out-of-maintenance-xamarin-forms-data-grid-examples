@@ -4,6 +4,7 @@ using DevExpress.XamarinForms.DataGrid;
 namespace DataGridView_Swipe {
     public partial class MainPage : ContentPage {
         public MainPage() {
+            DevExpress.XamarinForms.DataGrid.Initializer.Init();
             InitializeComponent();
         }
 

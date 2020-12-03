@@ -10,7 +10,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="DevExpress.XamarinForms.Grid" Version="20.2.3" />
+    <PackageReference Include="DevExpress.XamarinForms.Grid" Version="20.2.4" />
     <PackageReference Include="Xamarin.Forms" Version="4.8.0.1451" />
   </ItemGroup>
 </Project>

@@ -12,6 +12,7 @@ namespace DataGrid_CustomAppearance
     {
         public MainPage()
         {
+            DevExpress.XamarinForms.DataGrid.Initializer.Init();
             InitializeComponent();
         }
     }

@@ -1,9 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.ComponentModel;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using System.ComponentModel;
 using Xamarin.Forms;
 
 namespace DataGrid_Columns
@@ -15,6 +10,7 @@ namespace DataGrid_Columns
     {
         public MainPage()
         {
+            DevExpress.XamarinForms.DataGrid.Initializer.Init();
             InitializeComponent();
         }
     }

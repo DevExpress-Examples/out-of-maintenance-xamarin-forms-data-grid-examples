@@ -23,7 +23,7 @@ namespace DataGrid_Columns.iOS
         public override bool FinishedLaunching(UIApplication app, NSDictionary options)
         {
             global::Xamarin.Forms.Forms.Init();
-            DevExpress.XamarinForms.DataGrid.DataGrid.Init();
+            DevExpress.XamarinForms.DataGrid.iOS.Initializer.Init();
             LoadApplication(new App());
 
             return base.FinishedLaunching(app, options);

@@ -6,6 +6,7 @@ namespace DataGrid_GettingStarted {
         int count;
 
         public MainPage() {
+            DevExpress.XamarinForms.DataGrid.Initializer.Init();
             InitializeComponent();
         }
 
