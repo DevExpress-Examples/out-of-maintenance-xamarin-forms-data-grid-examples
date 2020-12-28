@@ -5,6 +5,7 @@ Examples:
 - [Multi-Row Column Layout](./CS/AdvancedColumnLayout)
 - [In-Place Editors](./CS/InPlaceEditors)
 - [Edit Form](./CS/EditForm)
+- [Custom Edit Form](./CS/EditFormTemplate)
 - [Pull to Refresh](./CS/PullToRefresh)
 - [Load More](./CS/LoadMore)
 - [Swipe Actions](./CS/Swipe)

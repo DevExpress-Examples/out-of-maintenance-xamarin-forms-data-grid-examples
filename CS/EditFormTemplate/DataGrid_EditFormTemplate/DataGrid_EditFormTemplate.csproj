@@ -1,0 +1,45 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <ProduceReferenceAssembly>true</ProduceReferenceAssembly>
+  </PropertyGroup>
+
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
+    <DebugType>portable</DebugType>
+    <DebugSymbols>true</DebugSymbols>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Images\Andrew_Fuller.jpg" />
+    <None Remove="Images\Anne_Dodsworth.jpg" />
+    <None Remove="Images\Janet_Leverling.jpg" />
+    <None Remove="Images\Laura_Callahan.jpg" />
+    <None Remove="Images\Margaret_Peacock.jpg" />
+    <None Remove="Images\Michael_Suyama.jpg" />
+    <None Remove="Images\Nancy_Davolio.jpg" />
+    <None Remove="Images\Robert_King.jpg" />
+    <None Remove="Images\Steven_Buchanan.jpg" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <EmbeddedResource Include="Images\Steven_Buchanan.jpg" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <EmbeddedResource Include="Images\Andrew_Fuller.jpg" />
+    <EmbeddedResource Include="Images\Anne_Dodsworth.jpg" />
+    <EmbeddedResource Include="Images\Janet_Leverling.jpg" />
+    <EmbeddedResource Include="Images\Laura_Callahan.jpg" />
+    <EmbeddedResource Include="Images\Margaret_Peacock.jpg" />
+    <EmbeddedResource Include="Images\Michael_Suyama.jpg" />
+    <EmbeddedResource Include="Images\Nancy_Davolio.jpg" />
+    <EmbeddedResource Include="Images\Robert_King.jpg" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="DevExpress.XamarinForms.Grid" Version="20.2.4" />
+    <PackageReference Include="Xamarin.Forms" Version="4.8.0.1451" />
+    <PackageReference Include="Xamarin.Essentials" Version="1.5.3.2" />
+  </ItemGroup>
+</Project>
