@@ -10,7 +10,7 @@
 * [ModelObject.cs](./DataGrid_ValidateCellEvent/DataModel/ModelObject.cs)
 <!-- default file list end -->
 # Validate a Value Once It Is Entered
-This example shows how to validate cell values that users enter in the edit form. Use the [EditFormPage.ValidateCell](https://docs.devexpress.com/MobileControls/DevExpress.XamarinForms.DataGrid.EditFormPage.ValidateCell) event that occurs after a user changes a cell value in the default edit form and moves focus from the editor. For a complete description, refer to the following help topic: [Validate a Value Once It Is Entered](https://docs.devexpress.com/MobileControls/401328/xamarin-forms/data-grid/examples/input-validation#validate-a-value-once-it-is-entered).
+This example shows how to validate cell values that users enter in the edit form. Use the [EditFormPage.ValidateCell](https://docs.devexpress.com/MobileControls/DevExpress.XamarinForms.DataGrid.EditFormPage.ValidateCell) event that occurs after a user changes a cell value in the [default edit form](https://docs.devexpress.com/MobileControls/400993/xamarin-forms/data-grid/examples/edit-cells#how-to-enable-the-edit-form) and moves focus from the editor. For a complete description, refer to the following help topic: [Validate a Value Once It Is Entered](https://docs.devexpress.com/MobileControls/401328/xamarin-forms/data-grid/examples/input-validation#validate-a-value-once-it-is-entered).
 
 <img src="./img/edit-form-validation.png"/>
 
