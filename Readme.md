@@ -6,6 +6,7 @@ Examples:
 - [In-Place Editors](./CS/InPlaceEditors)
 - [Edit Form](./CS/EditForm)
 - [Custom Edit Form](./CS/EditFormTemplate)
+- [Edit Form Validation - ValidateForm Event](./CS/ValidateFormEvent)
 - [Pull to Refresh](./CS/PullToRefresh)
 - [Load More](./CS/LoadMore)
 - [Swipe Actions](./CS/Swipe)
