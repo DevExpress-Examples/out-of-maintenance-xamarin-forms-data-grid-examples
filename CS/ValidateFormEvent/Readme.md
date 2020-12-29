@@ -12,7 +12,7 @@
 # Validate Values When Closing the Edit Form
 This example shows how to validate cell values that users enter in the edit form. Use the [EditFormPage.ValidateForm](https://docs.devexpress.com/MobileControls/DevExpress.XamarinForms.DataGrid.EditFormPage.ValidateForm) event that occurs after a user changes the values and tries to close the edit form. For a complete description, refer to the following help topic: [Validate Values When Closing the Edit Form](https://docs.devexpress.com/MobileControls/401328/xamarin-forms/data-grid/examples/input-validation#validate-values-when-closing-the-edit-form).
 
-<img src="./img/default-edit-form.png"/>
+<img src="./img/edit-form-validation.png"/>
 
 To run the application:
 1. [Obtain your NuGet feed URL](http://docs.devexpress.com/GeneralInformation/116042/installation/install-devexpress-controls-using-nuget-packages/obtain-your-nuget-feed-url).
