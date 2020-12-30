@@ -8,7 +8,7 @@
 * [OrderRepository.cs](./DataGrid_ValidateInPlaceEditors/DataModel/OrderRepository.cs)
 * [ModelObject.cs](./DataGrid_ValidateInPlaceEditors/DataModel/ModelObject.cs)
 <!-- default file list end -->
-# Validate new values in in-place cell editors
+# Validate New Values in In-Place Cell Editors
 This example shows how to validate a new cell value when a user modified it in an [in-place cell editor](https://docs.devexpress.com/MobileControls/400993/xamarin-forms/data-grid/examples/edit-cells#in-place-editors) and moves focus to another cell. For a complete description, refer to the following help topic: [Validate Data Input](https://docs.devexpress.com/MobileControls/401328/xamarin-forms/data-grid/examples/input-validation#in-place-editors).
 
 <img src="./img/cell-validation.png"/>
