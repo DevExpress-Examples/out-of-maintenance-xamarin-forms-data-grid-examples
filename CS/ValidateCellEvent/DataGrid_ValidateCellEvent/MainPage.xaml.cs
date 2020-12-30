@@ -18,10 +18,8 @@ namespace DataGrid_ValidateCellEvent {
         }
 
         private void EditForm_ValidateCell(object sender, DataGridValidationEventArgs e) {
-            if (e.FieldName == "Quantity" && e.NewValue is decimal) {
-                if ((decimal)e.NewValue <= 0) {
-                    e.ErrorContent = "The value must be positive.";
-                }
+            if (e.FieldName == "Quantity" && (decimal)e.NewValue <= 0) {
+                e.ErrorContent = "The value must be positive.";
             }
             else if (e.FieldName == "Date" && (DateTime)e.NewValue > DateTime.Now.Date)
                 e.ErrorContent = "The date value cannot be in the future.";
