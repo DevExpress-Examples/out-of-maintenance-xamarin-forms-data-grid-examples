@@ -6,6 +6,7 @@ Examples:
 - [In-Place Editors](./CS/InPlaceEditors)
 - [Edit Form](./CS/EditForm)
 - [Custom Edit Form](./CS/EditFormTemplate)
+- [In-Place Editor Validation](./CS/ValidateInPlaceEditors)
 - [Edit Form Validation - ValidateCell Event](./CS/ValidateCellEvent)
 - [Edit Form Validation - ValidateForm Event](./CS/ValidateFormEvent)
 - [Pull to Refresh](./CS/PullToRefresh)
