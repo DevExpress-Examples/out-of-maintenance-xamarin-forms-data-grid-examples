@@ -13,3 +13,4 @@ Examples:
 - [Load More](./CS/LoadMore)
 - [Swipe Actions](./CS/Swipe)
 - [Custom Appearance](./CS/CustomAppearance)
+- [Column Header Template](./CS/ColumnHeaderTemplate)
