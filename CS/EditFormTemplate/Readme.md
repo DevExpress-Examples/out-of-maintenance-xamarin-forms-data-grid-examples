@@ -8,7 +8,7 @@
 * [ViewModel.cs](./DataGrid_EditFormTemplate/ViewModel.cs)
 <!-- default file list end -->
 # Edit Cells - Custom Edit Form
-TThis example shows how to create a custom view for the grid's edit form and set up the grid to invoke this form when a user double taps a cell. For a complete description, refer to the following help topic: [Define a Custom Template for the Edit Form](https://docs.devexpress.com/MobileControls/400993/xamarin-forms/data-grid/examples/edit-cells#how-to-define-a-custom-template-for-the-edit-form).
+This example shows how to create a custom view for the grid's edit form and set up the grid to invoke this form when a user double taps a cell. For a complete description, refer to the following help topic: [Define a Custom Template for the Edit Form](https://docs.devexpress.com/MobileControls/400993/xamarin-forms/data-grid/examples/edit-cells#how-to-define-a-custom-template-for-the-edit-form).
 
 <img src="./img/edit-form-template.png"/>
 
