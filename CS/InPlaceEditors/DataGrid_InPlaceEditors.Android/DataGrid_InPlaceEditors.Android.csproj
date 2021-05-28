@@ -16,7 +16,6 @@
     <AndroidManifest>Properties\AndroidManifest.xml</AndroidManifest>
     <MonoAndroidResourcePrefix>Resources</MonoAndroidResourcePrefix>
     <MonoAndroidAssetsPrefix>Assets</MonoAndroidAssetsPrefix>
-    <AndroidUseLatestPlatformSdk>false</AndroidUseLatestPlatformSdk>
     <TargetFrameworkVersion>v10.0</TargetFrameworkVersion>
     <AndroidEnableSGenConcurrent>true</AndroidEnableSGenConcurrent>
     <AndroidUseAapt2>true</AndroidUseAapt2>
@@ -54,7 +53,7 @@
     <Reference Include="System.Numerics.Vectors" />
   </ItemGroup>
   <ItemGroup>
-    <PackageReference Include="Xamarin.Forms" Version="4.8.0.1451" />
+    <PackageReference Include="Xamarin.Forms" Version="5.0.0.2012" />
     <PackageReference Include="Xamarin.Essentials" Version="1.5.3.2" />
   </ItemGroup>
   <ItemGroup>
@@ -90,7 +89,7 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\DataGrid_InPlaceEditors\DataGrid_InPlaceEditors.csproj">
-      <Project>{C9709F9C-5E9E-494C-9C57-6EC52EB29E5B}</Project>
+      <Project>{719D1965-55C6-41A0-BB22-BA53F7A515AB}</Project>
       <Name>DataGrid_InPlaceEditors</Name>
     </ProjectReference>
   </ItemGroup>

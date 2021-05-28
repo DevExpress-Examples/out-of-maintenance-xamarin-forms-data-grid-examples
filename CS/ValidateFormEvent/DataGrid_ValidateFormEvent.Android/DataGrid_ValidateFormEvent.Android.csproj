@@ -16,7 +16,6 @@
     <AndroidManifest>Properties\AndroidManifest.xml</AndroidManifest>
     <MonoAndroidResourcePrefix>Resources</MonoAndroidResourcePrefix>
     <MonoAndroidAssetsPrefix>Assets</MonoAndroidAssetsPrefix>
-    <AndroidUseLatestPlatformSdk>false</AndroidUseLatestPlatformSdk>
     <TargetFrameworkVersion>v10.0</TargetFrameworkVersion>
     <AndroidEnableSGenConcurrent>true</AndroidEnableSGenConcurrent>
     <AndroidUseAapt2>true</AndroidUseAapt2>
@@ -54,7 +53,7 @@
     <Reference Include="System.Numerics.Vectors" />
   </ItemGroup>
   <ItemGroup>
-    <PackageReference Include="Xamarin.Forms" Version="4.8.0.1451" />
+    <PackageReference Include="Xamarin.Forms" Version="5.0.0.2012" />
     <PackageReference Include="Xamarin.Essentials" Version="1.5.3.2" />
   </ItemGroup>
   <ItemGroup>
@@ -90,7 +89,7 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\DataGrid_ValidateFormEvent\DataGrid_ValidateFormEvent.csproj">
-      <Project>{BEAD1726-8083-48A9-AF02-8332DF5E15B0}</Project>
+      <Project>{269D8E4C-1A87-463D-AC65-BD6675D665C9}</Project>
       <Name>DataGrid_ValidateFormEvent</Name>
     </ProjectReference>
   </ItemGroup>

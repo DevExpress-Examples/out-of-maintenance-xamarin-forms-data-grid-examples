@@ -123,13 +123,13 @@
     <Reference Include="System.Numerics.Vectors" />
   </ItemGroup>
   <ItemGroup>
-    <PackageReference Include="Xamarin.Forms" Version="4.8.0.1451" />
+    <PackageReference Include="Xamarin.Forms" Version="5.0.0.2012" />
     <PackageReference Include="Xamarin.Essentials" Version="1.5.3.2" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath)\Xamarin\iOS\Xamarin.iOS.CSharp.targets" />
   <ItemGroup>
     <ProjectReference Include="..\DataGrid_EditFormTemplate\DataGrid_EditFormTemplate.csproj">
-      <Project>{DF5D452A-B8C9-48A3-8326-A5313B635B34}</Project>
+      <Project>{E7A57EBA-E587-4E76-850B-BE93BB820A9C}</Project>
       <Name>DataGrid_EditFormTemplate</Name>
     </ProjectReference>
   </ItemGroup>

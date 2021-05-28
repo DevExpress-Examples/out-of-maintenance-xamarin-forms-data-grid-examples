@@ -53,7 +53,7 @@
     <Reference Include="System.Numerics.Vectors" />
   </ItemGroup>
   <ItemGroup>
-    <PackageReference Include="Xamarin.Forms" Version="4.6.0.1141" />
+    <PackageReference Include="Xamarin.Forms" Version="5.0.0.2012" />
     <PackageReference Include="Xamarin.Essentials" Version="1.5.3.2" />
   </ItemGroup>
   <ItemGroup>
@@ -89,7 +89,7 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\DataGrid_GettingStarted\DataGrid_GettingStarted.csproj">
-      <Project>{35BC1B33-FBC5-463D-868B-D51AFB18FBC6}</Project>
+      <Project>{B37AFD43-B728-4236-86CB-229A6335FFE0}</Project>
       <Name>DataGrid_GettingStarted</Name>
     </ProjectReference>
   </ItemGroup>

@@ -148,12 +148,12 @@
     <Reference Include="Xamarin.iOS" />
   </ItemGroup>
   <ItemGroup>
-    <PackageReference Include="Xamarin.Forms" Version="4.8.0.1451" />
+    <PackageReference Include="Xamarin.Forms" Version="5.0.0.2012" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath)\Xamarin\iOS\Xamarin.iOS.CSharp.targets" />
   <ItemGroup>
     <ProjectReference Include="..\DataGridView_Swipe\DataGridView_Swipe.csproj">
-      <Project>{955476B1-A120-49D4-8F84-BAFDC182F4B8}</Project>
+      <Project>{E814C3B8-05D3-455F-AA6C-EAB449CC8CA8}</Project>
       <Name>DataGridView_Swipe</Name>
     </ProjectReference>
   </ItemGroup>

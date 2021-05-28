@@ -123,13 +123,13 @@
     <Reference Include="System.Numerics.Vectors" />
   </ItemGroup>
   <ItemGroup>
-    <PackageReference Include="Xamarin.Forms" Version="4.8.0.1451" />
+    <PackageReference Include="Xamarin.Forms" Version="5.0.0.2012" />
     <PackageReference Include="Xamarin.Essentials" Version="1.5.3.2" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath)\Xamarin\iOS\Xamarin.iOS.CSharp.targets" />
   <ItemGroup>
     <ProjectReference Include="..\DataGrid_AdvancedColumnLayout\DataGrid_AdvancedColumnLayout.csproj">
-      <Project>{CF9E5A8C-D8F5-4D45-96C1-65392E799C3F}</Project>
+      <Project>{F242B8FB-38F2-42A1-8263-65C890F8BC8B}</Project>
       <Name>DataGrid_AdvancedColumnLayout</Name>
     </ProjectReference>
   </ItemGroup>

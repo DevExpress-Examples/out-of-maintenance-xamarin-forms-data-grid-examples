@@ -53,7 +53,7 @@
     <Reference Include="System.Numerics.Vectors" />
   </ItemGroup>
   <ItemGroup>
-    <PackageReference Include="Xamarin.Forms" Version="4.8.0.1451" />
+    <PackageReference Include="Xamarin.Forms" Version="5.0.0.2012" />
     <PackageReference Include="Xamarin.Essentials" Version="1.5.3.2" />
   </ItemGroup>
   <ItemGroup>
@@ -87,7 +87,7 @@
   <ItemGroup />
   <ItemGroup>
     <ProjectReference Include="..\DataGrid_ColumnHeaderTemplate\DataGrid_ColumnHeaderTemplate.csproj">
-      <Project>{A971E2AD-7E56-4FF2-A0B4-9E374EFFD1BD}</Project>
+      <Project>{B75F3122-F4C2-46C4-AF9D-0C918B41209C}</Project>
       <Name>DataGrid_ColumnHeaderTemplate</Name>
     </ProjectReference>
   </ItemGroup>

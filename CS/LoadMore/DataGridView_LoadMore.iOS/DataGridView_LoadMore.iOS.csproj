@@ -148,12 +148,12 @@
     <Reference Include="Xamarin.iOS" />
   </ItemGroup>
   <ItemGroup>
-    <PackageReference Include="Xamarin.Forms" Version="4.8.0.1451" />
+    <PackageReference Include="Xamarin.Forms" Version="5.0.0.2012" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath)\Xamarin\iOS\Xamarin.iOS.CSharp.targets" />
   <ItemGroup>
     <ProjectReference Include="..\DataGridView_LoadMore\DataGridView_LoadMore.csproj">
-      <Project>{82E7EA31-0F44-439C-8D7C-DD9791249C41}</Project>
+      <Project>{F6E1C66E-FD57-47DE-860F-8CB57BB549D6}</Project>
       <Name>DataGridView_LoadMore</Name>
     </ProjectReference>
   </ItemGroup>
