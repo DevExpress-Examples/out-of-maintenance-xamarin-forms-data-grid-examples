@@ -17,7 +17,7 @@ Please register the DevExpress NuGet Gallery in Visual Studio to restore NuGet p
 
 ### What's in This Repository
 
-This repository contains examples that illustrate the [DataGridView](https://docs.devexpress.com/MobileControls/DevExpress.XamarinForms.DataGrid.DataGridView)'s features.
+This repository contains examples that illustrate [DataGridView](https://docs.devexpress.com/MobileControls/DevExpress.XamarinForms.DataGrid.DataGridView) features.
 
 ![DevExpress Data Grid for Xamarin.Forms](./Images/grid.png)
 
