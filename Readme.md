@@ -4,7 +4,7 @@
 [![](https://img.shields.io/badge/📖_How_to_use_DevExpress_Examples-e9f6fc?style=flat-square)](https://docs.devexpress.com/GeneralInformation/403183)
 <!-- default badges end -->
 
-## Mobile UI for Xamarin.Forms - Data Grid
+# Mobile UI for Xamarin.Forms - Data Grid
 
 [DevExpress Mobile UI](https://www.devexpress.com/xamarin/) allows you to use a .NET cross-platform UI toolkit and C# to build native apps for iOS and Android.
 
@@ -12,11 +12,11 @@
 
 The **DevExpress Mobile UI for Xamarin.Forms and .NET MAUI** is free of charge. To learn more about our offer and reserve your copy, please visit the following webpage: [Free DevExpress Mobile UI for Xamarin.Forms and .NET MAUI](https://www.devexpress.com/xamarin-free).
 
-### Requirements
+## Requirements
 
 Please register the DevExpress NuGet Gallery in Visual Studio to restore NuGet packages used in this solution. See the following topic for more information: [Get Started with DevExpress Mobile UI for Xamarin.Forms](https://docs.devexpress.com/MobileControls/403540/xamarin-forms/get-started).
 
-### What's in This Repository
+## What's in This Repository
 
 This repository contains examples that illustrate [DataGridView](https://docs.devexpress.com/MobileControls/DevExpress.XamarinForms.DataGrid.DataGridView) features.
 
@@ -41,7 +41,7 @@ The solution in this repository contains the following projects for iOS and Andr
 
 In Visual Studio, select the startup project and run the application.
 
-### Documentation
+## Documentation
 
 - [Data Grid](http://docs.devexpress.com/MobileControls/400543/xamarin-forms/data-grid/index)
 - [Charts](http://docs.devexpress.com/MobileControls/400422/xamarin-forms/charts/index)
@@ -51,7 +51,7 @@ In Visual Studio, select the startup project and run the application.
 - [Data Form](https://docs.devexpress.com/MobileControls/401732/xamarin-forms/data-form/index)
 - [Data Editors](https://docs.devexpress.com/MobileControls/401613/xamarin-forms/editors/index)
 
-### More Examples
+## More Examples
 
 * [Stocks App](https://github.com/DevExpress-Examples/xamarin-forms-stocks-app)
 * [Demo Center](https://github.com/DevExpress-Examples/xamarin-forms-demo-app)
