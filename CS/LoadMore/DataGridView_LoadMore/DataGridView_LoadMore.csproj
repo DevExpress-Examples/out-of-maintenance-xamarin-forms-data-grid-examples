@@ -11,15 +11,7 @@
 
   <ItemGroup>
     <PackageReference Include="Xamarin.Forms" Version="5.0.0.2012" />
-    <PackageReference Include="DevExpress.XamarinForms.Grid" Version="22.1.3" />
+    <PackageReference Include="DevExpress.XamarinForms.Grid" Version="22.1.*" />
   </ItemGroup>
 
-  <ItemGroup>
-    <Reference Include="DevExpress.XamarinForms.Core">
-      <HintPath>..\..\..\..\..\..\Temp\Xamarin Grid\Binaries\Binaries\DevExpress.XamarinForms.Core.dll</HintPath>
-    </Reference>
-    <Reference Include="DevExpress.XamarinForms.Grid">
-      <HintPath>..\..\..\..\..\..\Temp\Xamarin Grid\Binaries\Binaries\DevExpress.XamarinForms.Grid.dll</HintPath>
-    </Reference>
-  </ItemGroup>
 </Project>
